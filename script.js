@@ -24,3 +24,5 @@ function receberQuantidadePessoas(evento) {
         pessoas = Number(evento.target.value)
     }
 }
+
+const botoesGorjeta = document.querySelectorAll(".gorjeta input[type='button']")
